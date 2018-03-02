@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Dragon Ball Super Blog | A simple blog about the Dragon Ball Universe</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2018-03-01T18:06:27-05:00</updated>
+ <author>
+   <name>Luke Alemida</name>
+   <uri>http://www.lukealmeida.com</uri>
+   <email>contact@lukealmeida.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>Episode 46 Review - Goku vs. Duplicated Vegeta! Who's Gonna Win?!</title>
+   <link href="http://localhost:4000/episode-46-review"/>
+   <id>http://localhost:4000/episode-46-review</id>
+   <updated>2018-01-13T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Episode 45 Review - Vegeta Disappears?! The Threat of Duplicated Vegeta!</title>
+   <link href="http://localhost:4000/episode-45-review"/>
+   <id>http://localhost:4000/episode-45-review</id>
+   <updated>2018-01-06T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Our Top Minor Fights in the Dragon Ball Universe</title>
+   <link href="http://localhost:4000/the-top-minor-fights-in-dragon-ball"/>
+   <id>http://localhost:4000/the-top-minor-fights-in-dragon-ball</id>
+   <updated>2018-01-03T00:00:00-05:00</updated>
+   <content type="html">&lt;h3 id=&quot;1-vegeta-vs-goku-black-rematch&quot;&gt;1. &lt;a href=&quot;https://www.youtube.com/watch?v=Y6qr6qxwOMY&quot;&gt;Vegeta vs Goku Black (Rematch)&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=Y6qr6qxwOMY&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/Y6qr6qxwOMY/0.jpg&quot; alt=&quot;Vegeta vs Goku Black &quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;“It’s because you’re a fake. And I’m the saiyan prince Vegeta Sama”&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Vegeta gets some of the best dialogue while fighting that includes witty, confident remarks. In this fight, Vegeta has...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Ranking The Fighters of Universe 7 in the Tournament of Power</title>
+   <link href="http://localhost:4000/ranking-the-fighters-of-universe-7-in-the-tournament-of-power"/>
+   <id>http://localhost:4000/ranking-the-fighters-of-universe-7-in-the-tournament-of-power</id>
+   <updated>2017-10-30T00:00:00-04:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.saiyanisland.com/news/wp-content/uploads2/2016/12/Dragon-Ball-Super-Universe-Survival-Arc.jpg&quot; alt=&quot;alt text&quot; title=&quot;Tournament of Power&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;10-krillin&quot;&gt;10. Krillin&lt;/h3&gt; &lt;p&gt;We put Krillin at the last of our list for the universe 7 fighters. Being part of this list and representing the universe is a big accomplishment in itself; and it is no surprise that Krillin is known as...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Example 4</title>
+   <link href="http://localhost:4000/example-4"/>
+   <id>http://localhost:4000/example-4</id>
+   <updated>2015-02-15T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Example 3</title>
+   <link href="http://localhost:4000/example-3"/>
+   <id>http://localhost:4000/example-3</id>
+   <updated>2015-02-15T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Example 2</title>
+   <link href="http://localhost:4000/example-2"/>
+   <id>http://localhost:4000/example-2</id>
+   <updated>2015-02-15T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Example 1</title>
+   <link href="http://localhost:4000/example-1"/>
+   <id>http://localhost:4000/example-1</id>
+   <updated>2015-02-15T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Hello World</title>
+   <link href="http://localhost:4000/hello-world"/>
+   <id>http://localhost:4000/hello-world</id>
+   <updated>2015-02-10T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem,...</content>
+ </entry>
+
+ 
+
+</feed>

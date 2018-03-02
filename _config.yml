@@ -1,0 +1,32 @@
+# Site settings
+title: Dragon Ball Super Blog | A simple blog about the Dragon Ball Universe
+description: "The Dragon Ball Super Blog is dedicated to simple discussions on the recent Dragon Ball Super episodes, reveals and more"
+url: "http://www.example.com/emerald"
+author:
+  name: "Luke Alemida"
+  email: "contact@lukealmeida.com"
+  url: "http://www.lukealmeida.com"
+
+# Build settings
+baseurl: / #Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+reverse: true
