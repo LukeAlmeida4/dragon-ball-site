@@ -1,0 +1,18 @@
+---
+layout: page
+title: Episode Reviews
+---
+<h2 class="page-titles">Episode Reviews</h2>
+<ul id="posts">
+
+    {% for post in site.categories.Reviews %}
+
+	  <li class="post">
+	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
+	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+	  	<p>{{ post.content | strip_html | truncatewords:80 }}</p>
+	  </li>
+<div class="alignright"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" class="page-item">Read More</a></div>
+    {% endfor %}
+
+</ul>
